@@ -20,6 +20,7 @@
     "react": ">=0.14.0"
   },
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "fbemitter": "^2.0.2",
     "fbjs": "~0",
     "prop-types": "^15.5.8"
